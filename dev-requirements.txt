@@ -14,3 +14,4 @@ coverage
 ddt
 model-bakery==1.4.0
 django>=4.2.20 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
